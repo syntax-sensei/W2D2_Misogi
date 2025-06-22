@@ -1,0 +1,42 @@
+[
+  [
+    {
+      "score": 0.25344428420066833,
+      "token": 2723,
+      "token_str": "floor",
+      "sequence": "[CLS] the cat sat on the floor because it was [MASK]. [SEP]"
+    },
+    {
+      "score": 0.0874684676527977,
+      "token": 6411,
+      "token_str": "couch",
+      "sequence": "[CLS] the cat sat on the couch because it was [MASK]. [SEP]"
+    },
+    {
+      "score": 0.08743427693843842,
+      "token": 2793,
+      "token_str": "bed",
+      "sequence": "[CLS] the cat sat on the bed because it was [MASK]. [SEP]"
+    }
+  ],
+  [
+    {
+      "score": 0.05373193323612213,
+      "token": 3147,
+      "token_str": "cold",
+      "sequence": "[CLS] the cat sat on the [MASK] because it was cold. [SEP]"
+    },
+    {
+      "score": 0.04534006118774414,
+      "token": 7501,
+      "token_str": "hungry",
+      "sequence": "[CLS] the cat sat on the [MASK] because it was hungry. [SEP]"
+    },
+    {
+      "score": 0.031601037830114365,
+      "token": 4010,
+      "token_str": "warm",
+      "sequence": "[CLS] the cat sat on the [MASK] because it was warm. [SEP]"
+    }
+  ]
+]
