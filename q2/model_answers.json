@@ -1,0 +1,62 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "model_answer": "Paris"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "model_answer": "Isaac Newton"
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "model_answer": "Incorrect Answer"
+  },
+  {
+    "question": "Who was the first president of the United States?",
+    "model_answer": "Incorrect Answer"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "model_answer": "Mars"
+  },
+  {
+    "question": "What is the largest mammal?",
+    "model_answer": "Blue Whale"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "model_answer": "Au"
+  },
+  {
+    "question": "How many continents are there?",
+    "model_answer": "Seven"
+  },
+  {
+    "question": "What language is primarily spoken in Brazil?",
+    "model_answer": "Portuguese"
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "model_answer": "Carbon Dioxide"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "model_answer": "Incorrect Answer"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "model_answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "How many moons does Mars have?",
+    "model_answer": "1"
+  },
+  {
+    "question": "What is the speed of light?",
+    "model_answer": "299,792 km/s"
+  },
+  {
+    "question": "Which element has the atomic number 1?",
+    "model_answer": "Helium"
+  }
+]

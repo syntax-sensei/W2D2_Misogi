@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "answer": "Paris"
+  },
+  {
+    "question": "Who discovered gravity?",
+    "answer": "Isaac Newton"
+  },
+  {
+    "question": "What is the boiling point of water?",
+    "answer": "100\u00b0C"
+  },
+  {
+    "question": "Who was the first president of the United States?",
+    "answer": "George Washington"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "answer": "Mars"
+  },
+  {
+    "question": "What is the largest mammal?",
+    "answer": "Blue Whale"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "answer": "Au"
+  },
+  {
+    "question": "How many continents are there?",
+    "answer": "Seven"
+  },
+  {
+    "question": "What language is primarily spoken in Brazil?",
+    "answer": "Portuguese"
+  },
+  {
+    "question": "What gas do plants absorb from the atmosphere?",
+    "answer": "Carbon Dioxide"
+  }
+]

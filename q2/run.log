@@ -1,0 +1,81 @@
+Q: What is the capital of France?
+A: Paris
+Result: OK
+--------------------------------------------------
+Q: Who discovered gravity?
+A: Isaac Newton
+Result: OK
+--------------------------------------------------
+Q: What is the boiling point of water?
+A: Incorrect Answer
+Result: RETRY: answer differs from KB
+RETRYING...
+Retry Answer: 100°C
+Retry Result: OK
+--------------------------------------------------
+Q: Who was the first president of the United States?
+A: Incorrect Answer
+Result: RETRY: answer differs from KB
+RETRYING...
+Retry Answer: George Washington
+Retry Result: OK
+--------------------------------------------------
+Q: Which planet is known as the Red Planet?
+A: Mars
+Result: OK
+--------------------------------------------------
+Q: What is the largest mammal?
+A: Blue Whale
+Result: OK
+--------------------------------------------------
+Q: What is the chemical symbol for gold?
+A: Au
+Result: OK
+--------------------------------------------------
+Q: How many continents are there?
+A: Seven
+Result: OK
+--------------------------------------------------
+Q: What language is primarily spoken in Brazil?
+A: Portuguese
+Result: OK
+--------------------------------------------------
+Q: What gas do plants absorb from the atmosphere?
+A: Carbon Dioxide
+Result: OK
+--------------------------------------------------
+Q: What is the square root of 144?
+A: Incorrect Answer
+Result: RETRY: out-of-domain
+RETRYING...
+Retry Answer: Improved guess
+Retry Result: OUT-OF-DOMAIN
+--------------------------------------------------
+Q: Who painted the Mona Lisa?
+A: Leonardo da Vinci
+Result: RETRY: out-of-domain
+RETRYING...
+Retry Answer: Improved guess
+Retry Result: OUT-OF-DOMAIN
+--------------------------------------------------
+Q: How many moons does Mars have?
+A: 1
+Result: RETRY: out-of-domain
+RETRYING...
+Retry Answer: Improved guess
+Retry Result: OUT-OF-DOMAIN
+--------------------------------------------------
+Q: What is the speed of light?
+A: 299,792 km/s
+Result: RETRY: out-of-domain
+RETRYING...
+Retry Answer: Improved guess
+Retry Result: OUT-OF-DOMAIN
+--------------------------------------------------
+Q: Which element has the atomic number 1?
+A: Helium
+Result: RETRY: out-of-domain
+RETRYING...
+Retry Answer: Improved guess
+Retry Result: OUT-OF-DOMAIN
+--------------------------------------------------
